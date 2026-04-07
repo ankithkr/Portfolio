@@ -31,7 +31,7 @@ const HeroSection = () => {
             <a href="#projects" className="btn-primary" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
               View My Work <ArrowRight size={18} />
             </a>
-            <a href="/Ankith AI resume.pdf" target="_blank" className="btn-outline" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <a href="/resume.pdf" target="_blank" className="btn-outline" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
               <Download size={18} /> Download Resume
             </a>
           </div>
